@@ -1,0 +1,8 @@
+JDK 8 
+Eclipse
+Maven
+Selenium web driver
+driver
+cucumber 
+1. cucumber eclipse plugin
+2. Natural
